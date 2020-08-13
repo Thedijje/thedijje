@@ -3,7 +3,6 @@
 <!--
 **Thedijje/thedijje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently PHP, Laravel, AWS, APIs
 - 🌱 I’m currently Laravel, React
