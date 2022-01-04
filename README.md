@@ -13,3 +13,7 @@
 - 😄 Pronouns: DJ
 - ⚡ Fun fact: I like helping developers. 😄
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/thedijje?style=social)](https://twitter.com/thedijje)
+
+
+
